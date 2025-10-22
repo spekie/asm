@@ -1,0 +1,4 @@
+Small projects written in the assembly language for a
+deeper understanding of computers and machine code instructions
+
+Most programs will be written in x86 assembly with the AT&T syntax
